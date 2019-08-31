@@ -1,0 +1,4 @@
+#Tue Aug 20 18:47:58 BRT 2019
+base.0=/home/fernandes/AndroidStudioProjects/contador_de_pessoas/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
